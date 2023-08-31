@@ -14,8 +14,9 @@
 </br>
 
 ## 필요 산출물
-
-- Step3. Week-1
+<details>
+<summary>Step3. Week-1</summary>
+<div>
     
     ✅**1주차**
     
@@ -27,12 +28,15 @@
     - 칸반보드**
     ```
     
-
+</div>
+</details>
 </br>
 
 ---
 
-- Step3. Week-2
+<details>
+<summary>Step3. Week-2</summary>
+<div>
     
     ✅**2주차**
     
@@ -42,12 +46,15 @@
     - API 명세서**
     ```
     
-
+</div>
+</details>
 </br>
 
 ---
 
-- Step3. Week-3
+<details>
+<summary>Step3. Week-3</summary>
+<div>
     
     ✅**3주차**
     
@@ -55,12 +62,15 @@
     **- 최종 기획안**
     ```
     
-
+</div>
+</details>
 </br>
 
 ---
 
-- Step3. Week-4
+<details>
+<summary>Step3. Week-4</summary>
+<div>
     
     ✅**4주차**
     
@@ -70,7 +80,8 @@
     - 4주차 노션**
     ```
     
-
+</div>
+</details>
 </br>
 
 ---
