@@ -18,7 +18,7 @@
 <summary>Step3. Week-1</summary>
 <div>
     
-    ✅**1주차**
+✅**1주차**
     
     ```
     **- 5 Whys
