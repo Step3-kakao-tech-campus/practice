@@ -31,7 +31,6 @@
 </div>
 </details>
 </br>
-
 ---
 
 <details>
@@ -59,7 +58,7 @@
 ✅**3주차**
     
 ```
-    **- 최종 기획안**
+    - 최종 기획안
 ```
     
 </div>
@@ -72,12 +71,102 @@
 <summary>Step3. Week-4</summary>
 <div>
     
-    ✅**4주차**
+✅**4주차**
+    
+```
+    - 4주차 github
+    
+    - 4주차 노션
+```
+    
+</div>
+</details>
+</br>
+
+---
+<details>
+<summary>Step3. Week-5</summary>
+<div>
+    
+✅**5주차**
+    
+```
+    - 5주차 github
+    
+    - 5주차 노션
+```
+    
+</div>
+</details>
+</br>
+
+---
+
+<details>
+<summary>Step3. Week-6</summary>
+<div>
+    
+  ✅**6주차**
+    
+  ```
+    - 6주차 github
+    
+    - 중간발표자료
+    
+    - 피어리뷰시트
+```
+    
+</div>
+</details>
+</br>
+
+---
+
+<details>
+<summary>Step3. Week-7</summary>
+<div>
+    
+✅**7주차**
+    
+```
+    - 7주차 github
+    
+    - 7주차 노션
+```
+    
+</div>
+</details>
+</br>
+
+---
+
+<details>
+<summary>Step3. Week-8</summary>
+<div>
+    
+✅**8주차**
+    
+```
+    - 중간고사
+    
+```
+    
+</div>
+</details>
+</br>
+
+---
+
+<details>
+<summary>Step3. Week-9</summary>
+<div>
+    
+    ✅**9주차**
     
     ```
-    **- 4주차 github
+    - 9주차 github
     
-    - 4주차 노션**
+    - 9주차 노션
     ```
     
 </div>
@@ -86,110 +175,40 @@
 
 ---
 
-- Step3. Week-5
+<details>
+<summary>Step3. Week-10</summary>
+<div>
     
-    ✅**5주차**
+✅**10주차**
     
-    ```
-    **- 5주차 github
-    
-    - 5주차 노션**
-    ```
-    
-
-</br>
-
----
-
-- Step3. Week-6
-    
-    ✅**6주차**
-    
-    ```
-    **- 6주차 github
-    
-    - 중간발표자료
-    
-    - 피어리뷰시트**
-    ```
-    
-
-</br>
-
----
-
-- Step3. Week-7
-    
-    ✅**7주차**
-    
-    ```
-    **- 7주차 github
-    
-    - 7주차 노션**
-    ```
-    
-
-</br>
-
----
-
-- Step3. Week-8
-    
-    ✅**8주차**
-    
-    ```
-    **- 중간고사**
-    
-    ```
-    
-
-</br>
-
----
-
-- Step3. Week-9
-    
-    ✅**9주차**
-    
-    ```
-    **- 9주차 github
-    
-    - 9주차 노션**
-    ```
-    
-
-</br>
-
----
-
-- Step3. Week-10
-    
-    ✅**10주차**
-    
-    ```
-    **- 10주차 github
+```
+    - 10주차 github
     
     - 테스트 시나리오 명세서
     
-    - 테스트 결과 보고서**
-    ```
+    - 테스트 결과 보고서
+```
     
-
+</div>
+</details>
 </br>
 
 ---
 
-- Step3. Week-11
+<details>
+<summary>Step3. Week-10</summary>
+<div>
     
-    ✅**11주차**
+✅**11주차**
     
-    ```
-    **- 최종 기획안
+```
+    - 최종 기획안
     
-    - 배포 인스턴스 링크**
-    ```
+    - 배포 인스턴스 링크
+```
     
-
+</div>
+</details>
 </br>
 
 ---
