@@ -15,11 +15,12 @@
 
 ## 필요 산출물
 
-<details>
+
 <summary>Step-3</summary>
 <div>
 
-<summary>**Step3.Week1**</summary>
+<details>
+<summary>Week-1</summary>
 
 ✅**1주차**
 
@@ -33,7 +34,8 @@
 
 </br>
 
-<summary>Step-3.-Week-2</summary>
+<details>
+<summary>Week-2</summary>
 
 ✅**2주차**
 
@@ -45,7 +47,8 @@
 
 </br>
 
-<summary>Step-3.-Week-3</summary>
+<details>
+<summary>Week-3</summary>
 
 ✅**3주차**
 
