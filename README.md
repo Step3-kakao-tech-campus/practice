@@ -107,9 +107,9 @@
 <summary>Step3. Week-6</summary>
 <div>
     
-  ✅**6주차**
+✅**6주차**
     
-  ```
+```
     - 6주차 github
     
     - 중간발표자료
@@ -162,13 +162,13 @@
 <summary>Step3. Week-9</summary>
 <div>
     
-    ✅**9주차**
+✅**9주차**
     
-    ```
+```
     - 9주차 github
     
     - 9주차 노션
-    ```
+```
     
 </div>
 </details>
