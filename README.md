@@ -1,23 +1,25 @@
+## 카카오 테크 캠퍼스 3단계 진행 보드
 
-# 카카오 테크 캠퍼스 3단계 진행 보드
-<div>
-  
 </br>
 
-## Notice
+## notice
 
 ```
-**필요 산출물들은 수료 기준에 영향을 주는 것은 아니지만,
+필요 산출물들은 수료 기준에 영향을 주는 것은 아니지만, 
 주차 별 산출물을 기반으로 평가가 이루어 집니다.
 
-주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.**
+주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.
 ```
 
 </br>
 
 ## 필요 산출물
 
-<summary>**Step3.Week1**</summary>
+<details>
+<summary>Step-3</summary>
+<div>
+
+<summary>Step-3.-Week-1</summary>
 
 ✅**1주차**
 
@@ -31,7 +33,7 @@
 
 </br>
 
-<summary>Step3.Week2</summary>
+<summary>Step-3.-Week-2</summary>
 
 ✅**2주차**
 
@@ -43,7 +45,7 @@
 
 </br>
 
-<summary>**Step3.Week3**</summary>
+<summary>Step-3.-Week-3</summary>
 
 ✅**3주차**
 
@@ -55,7 +57,7 @@
 
 <summary>Step-3.-Week-4</summary>
 
-✅4주차
+✅**4주차**
 
 ```
 **- 4주차 github
@@ -67,7 +69,7 @@
 
 <summary>Step-3.-Week-5</summary>
 
-✅5**주차**
+✅**5주차**
 
 ```
 **- 5주차 github
@@ -79,7 +81,7 @@
 
 <summary>Step-3.-Week-6</summary>
 
-✅6**주차**
+✅**6주차**
 
 ```
 **- 6주차 github
@@ -93,7 +95,7 @@
 
 <summary>Step-3.-Week-7</summary>
 
-✅7**주차**
+✅**7주차**
 
 ```
 **- 7주차 github
@@ -105,7 +107,7 @@
 
 <summary>Step-3.-Week-8</summary>
 
-✅8**주차**
+✅**8주차**
 
 ```
 **- 중간고사**
@@ -116,7 +118,7 @@
 
 <summary>Step-3.-Week-9</summary>
 
-✅9**주차**
+✅**9주차**
 
 ```
 **- 9주차 github
@@ -128,7 +130,7 @@
 
 <summary>Step-3.-Week-10</summary>
 
-✅10**주차**
+✅**10주차**
 
 ```
 **- 10주차 github
@@ -142,7 +144,7 @@
 
 <summary>Step-3.-Week-11</summary>
 
-✅11**주차**
+✅**11주차**
 
 ```
 **- 최종 기획안
@@ -176,5 +178,3 @@ UI 컴포넌트의 명칭과 이를 구현하는 능력은 필수적인 커뮤�
 
 </div>
 </details>
-
----
