@@ -7,22 +7,22 @@
 ## Notice
 
 ```
-**필요 산출물들은 수료 기준에 영향을 주는 것은 아니지만,** 
+**필요 산출물들은 수료 기준에 영향을 주는 것은 아니지만,
 주차 별 산출물을 기반으로 평가가 이루어 집니다.
 
-주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.
+주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.**
 ```
 
 </br>
 
 ## 필요 산출물
 
-<summary>Step-3.-Week1</summary>
+<summary>**Step3.Week1**</summary>
 
 ✅**1주차**
 
 ```
-- **5 Whys
+**- 5 Whys
 - 마켓 리서치
 - 페르소나 & 저니맵
 - 와이어 프레임
@@ -31,7 +31,7 @@
 
 </br>
 
-<summary>Step-3.-Week-2</summary>
+<summary>Step3.Week2</summary>
 
 ✅**2주차**
 
@@ -43,7 +43,7 @@
 
 </br>
 
-<summary>Step-3.-Week-3</summary>
+<summary>**Step3.Week3**</summary>
 
 ✅**3주차**
 
