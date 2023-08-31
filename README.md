@@ -17,12 +17,12 @@
 
 ## 필요 산출물
 
-<summary>Step-3.-Week-1</summary>
+<summary>Step-3.-Week1</summary>
 
 ✅**1주차**
 
 ```
-**- 5 Whys
+- **5 Whys
 - 마켓 리서치
 - 페르소나 & 저니맵
 - 와이어 프레임
