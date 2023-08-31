@@ -47,7 +47,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -63,7 +62,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -81,7 +79,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 <details>
@@ -98,7 +95,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -118,7 +114,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -136,7 +131,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -153,7 +147,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -171,7 +164,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -191,7 +183,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
@@ -209,7 +200,6 @@
     
 </div>
 </details>
-</br>
 
 ---
 
