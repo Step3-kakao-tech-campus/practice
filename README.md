@@ -14,6 +14,7 @@
 ![image](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/235ebac1-82e0-4646-a838-929a1d5b9d4e)
 
 [레포지토리 워크플로우.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12508878/default.pdf)
+[git flowchart.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12508889/git.flowchart.pdf)
 
 </br>
 
