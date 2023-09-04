@@ -10,6 +10,7 @@
 
 주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.
 ```
+![깃플로우차트](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/72a7c022-a5ec-4c2c-9136-c2ddbfd42049)
 
 </br>
 
