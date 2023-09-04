@@ -10,6 +10,11 @@
 
 주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.
 ```
+![image](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/235ebac1-82e0-4646-a838-929a1d5b9d4e)
+![깃플로우차트](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/72a7c022-a5ec-4c2c-9136-c2ddbfd42049)
+
+[레포지토리 워크플로우.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12508878/default.pdf)
+[git flowchart.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12508889/git.flowchart.pdf)
 
 </br>
 
