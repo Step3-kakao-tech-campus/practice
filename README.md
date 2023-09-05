@@ -25,7 +25,10 @@ ex ) AWS(아마존), GCP(구글), Azure(마이크로소프트), Cloudtype
 
 주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.
 ```
+
 ![레포지토리 운영-001 (1)](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/acb0dccd-0441-4200-999a-981865535d5f)
+![image](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/b42cbc06-c5e7-4806-8477-63dfa8e807a0)
+
 [git flowchart_FE.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12521045/git.flowchart_FE.pdf)
 
 
