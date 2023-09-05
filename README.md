@@ -25,11 +25,9 @@ ex ) AWS(아마존), GCP(구글), Azure(마이크로소프트), Cloudtype
 
 주차 별 평가 점수는 추 후 최종 평가에 최종 합산 점수로 포함됩니다.
 ```
-![image](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/235ebac1-82e0-4646-a838-929a1d5b9d4e)
-![깃플로우차트](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/72a7c022-a5ec-4c2c-9136-c2ddbfd42049)
+![레포지토리 운영-001 (1)](https://github.com/Step3-kakao-tech-campus/practice/assets/138656575/acb0dccd-0441-4200-999a-981865535d5f)
+[git flowchart_FE.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12521045/git.flowchart_FE.pdf)
 
-[레포지토리 워크플로우.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12508878/default.pdf)
-[git flowchart.pdf](https://github.com/Step3-kakao-tech-campus/practice/files/12508889/git.flowchart.pdf)
 
 </br>
 
@@ -236,7 +234,7 @@ UI 컴포넌트의 명칭과 이를 구현하는 능력은 필수적인 커뮤�
 
 </br>
 
-## **코드리뷰 관련: PR시, 아래 내용을 포함하여 코멘트 남겨주세요.**
+## **코드리뷰 관련: review branch로 PR시, 아래 내용을 포함하여 코멘트 남겨주세요.**
 
 **1. PR 제목과 내용을 아래와 같이 작성 해주세요.**
 
